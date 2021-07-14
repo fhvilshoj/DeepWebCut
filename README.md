@@ -10,10 +10,10 @@ DeepWebCut.
 DeepLabCut can make pose estimations for animals with very few labels.
 A couple of graphics copied directly from DeepLabCut:
 
-<img src="graphics/mouse.gif" style="width: 22%;"/>
-<img src="graphics/mice.gif" style="width: 22%;"/>
-<img src="graphics/fly.gif" style="width: 22%;"/>
-<img src="graphics/monkey.gif" style="width: 22%;"/>
+<img src="graphics/mouse.gif" max-width="22%"/>
+<img src="graphics/mice.gif" max-width="22%"/>
+<img src="graphics/fly.gif" max-width="22%"/>
+<img src="graphics/monkey.gif" max-width="22%"/>
 
 **The goal:**  
 Homepage allow video upload (or recording w/ camera from smartphone) and
